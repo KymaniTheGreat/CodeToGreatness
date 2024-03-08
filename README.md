@@ -2,4 +2,6 @@
 
 My first repository on GitHub
 
-Code for fun
+//Code for fun
+cout<<"Hello there";
+
