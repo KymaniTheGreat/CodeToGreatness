@@ -1,0 +1,42 @@
+[33mcommit f8790091acbee62e1a22c87cc55f3638888b96e3[m[33m ([m[1;36mHEAD -> [m[1;32mKymaniTheGreat-One[m[33m, [m[1;31morigin/KymaniTheGreat-One[m[33m)[m
+Merge: 8c034fe 5b9943d
+Author: Kymani Wilson <kymani.wilson@gmail.com>
+Date:   Sat Mar 9 01:36:46 2024 -0500
+
+    Resolve merge conflicts in README.md and C1
+
+[33mcommit 8c034fe4340f7e6753b3fbe472c6c90d96270b3a[m[33m ([m[1;32mKymaniTheGreat-1[m[33m)[m
+Author: Kymani Wilson <kymani.wilson@gmail.com>
+Date:   Fri Mar 8 01:26:17 2024 -0500
+
+    Added navbar, about, simple react contact form web3forms API, footer,program, gallery, testimonial, scroll feature to show navbar, campus,hero, and video player files
+
+[33mcommit 5b9943deca284ef658e70fba928fd7f1a03acec5[m
+Author: KymaniTheGreat <78228401+KymaniTheGreat@users.noreply.github.com>
+Date:   Mon Mar 4 03:04:06 2024 -0500
+
+    Update README.md
+
+[33mcommit 179d64825e0dde5a8fe1f577ed8c64f18efa8b89[m
+Author: KymaniTheGreat <78228401+KymaniTheGreat@users.noreply.github.com>
+Date:   Wed Feb 3 05:31:38 2021 -0500
+
+    hhhh
+
+[33mcommit cad0f595eb2af2c9a4635eb08dde5b5468b1c3bc[m
+Author: KymaniTheGreat <78228401+KymaniTheGreat@users.noreply.github.com>
+Date:   Wed Feb 3 05:07:32 2021 -0500
+
+    Create C1
+
+[33mcommit f595be8cdb4f3e128d1f403e8cda014a337dbea9[m
+Author: KymaniTheGreat <78228401+KymaniTheGreat@users.noreply.github.com>
+Date:   Wed Feb 3 04:52:40 2021 -0500
+
+    Update README.md
+
+[33mcommit e54eced535f56c0869bce6b9bcbb901ce7fcb92a[m
+Author: KymaniTheGreat <78228401+KymaniTheGreat@users.noreply.github.com>
+Date:   Fri Jan 29 12:40:02 2021 -0800
+
+    Initial commit
