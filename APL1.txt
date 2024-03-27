@@ -1,0 +1,28 @@
+A compiled language, is one that is designed to be translated by a compiler before the actual program can be executed.
+
+Interpreted languages are those programming languages that use software called interpreters to convert the high level source code into machine language.
+
+Artificial Intelligence is the theory and development of computer systems able to perform tasks normally requiring 
+human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+a chatbot is a computer program designed to simulate conversation with human users, especially over the internet.
+
+A Hybrid Language is a Multi-paradigm programming language, a programming language that draws on elements from more than one programming paradigm, in computer science.
+
+A compiled language, is one that is designed to be translated by a compiler before the actual program can be executed, while
+Interpreted languages are those programming languages that use software called interpreters to convert the high level source code into machine language.
+
+Lexical analyser is a language translation phase that breaks up source code into smaller tokens called lexemes_ These lexemes for abstract syntax trees, then
+the word processor or voice/speech synthesizer, the compiler breaks up the message into smaller blocks.
+
+Source code is written in plain text by using some high level programming language, while object code is translated code of source code_ It is in binary format.
+
+An abstract syntax tree (AST) is a language-agnostic, hierarchical representation of the elements comprising the source code of a computer 
+program however, a Syntax tree helps to determine the accuracy of the compiler, it's a condensed form of parse tree.
+
+It gets its input from the semantic analysis phase and serves its output to the code optimizer phase, then 
+the intermediate code generator generates some intermediate representation, and
+from this intermediate representation, the compiler generates the target code.
+
+Symbol table is an important data structure created and maintained by compilers 
+in order to store information about the occurrence of various entities such as variable names, function names, objects, classes, interfaces, etc.
